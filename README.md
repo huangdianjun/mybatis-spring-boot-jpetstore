@@ -1,3 +1,13 @@
+MyBatis Spring Boot JPetStore 版本使用的是| MyBatis Spring Boot Starter | 使用 Spring Boot |
+还有别的版本：
+JPetStore 有多个版本，可以对比学习：
+
+| 版本 | 技术栈 | 特点 |
+|------|--------|------|
+| JPetStore 6（本项目）| MyBatis + Spring + Stripes | 官方版本，适合学习 MyBatis | https://github.com/mybatis/jpetstore-6.git
+| Spring JPetStore | Spring + Spring MVC + MyBatis + Spring Security | 更现代的 Spring 技术栈 | https://github.com/making/spring-jpetstore
+| JPetStore 6 Vaadin | Vaadin + Spring Boot | 使用 Vaadin 前端框架  |https://github.com/kazuki43zoo/mybatis-spring-boot-jpetstore
+| MyBatis Spring Boot JPetStore | MyBatis Spring Boot Starter | 使用 Spring Boot | https://github.com/kazuki43zoo/mybatis-spring-boot-jpetstore
 # mybatis-spring-boot-jpetstore
 
 [![Java CI](https://github.com/kazuki43zoo/mybatis-spring-boot-jpetstore/actions/workflows/ci.yaml/badge.svg)](https://github.com/kazuki43zoo/mybatis-spring-boot-jpetstore/actions/workflows/ci.yaml)
